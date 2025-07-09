@@ -53,7 +53,9 @@ A **single Android application** is developed for all **Kyber variants**:
 
 ---
 
-## 📂 Folder Structure
+## 🙏 Acknowledgments
+The NEON-based optimizations implemented in this project are an extension of the work originally done by [GMUCERG](https://github.com/GMUCERG/PQC_NEON).
+We sincerely thank them for their foundational contribution, which served as the basis for our performance enhancement efforts
 
 ---
 
