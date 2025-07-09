@@ -55,17 +55,6 @@ A **single Android application** is developed for all **Kyber variants**:
 
 ## 📂 Folder Structure
 
-```
-.
-├── NTRU_Algorithms/
-│   ├── NTRU_HRSS/
-│   ├── NTRU_HPS/
-│   └── NTRU_KEM/
-├── Kyber_Algorithm/
-│   └── KyberApp/
-└── README.md
-```
-
 ---
 
 ## 📋 Notes
